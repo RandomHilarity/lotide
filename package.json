@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@johnrwebs/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "LighthouseLabs lowtide package for learning purposes, DO NOT USE",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/RandomHilarity/lotide.git"
   },
-  "author": "",
+  "author": "John Webster",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RandomHilarity/lotide/issues"
