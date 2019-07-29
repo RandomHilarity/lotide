@@ -1,8 +1,8 @@
 const eqArrays = require("./eqArrays");
 
-let assertArraysEqual = function(eqFirstArray, eqSecondArray) {
+let assertArraysEqual = function(firstArray, secondArray) {
   let output = "";
-  eqArrays(eqFirstArray, eqSecondArray) ? output = "The arrays match." : output = "The arrays do not match.";
+  eqArrays(firstArray, secondArray) ? output = "The arrays match." : output = "The arrays do not match.";
   return output;
 };
 
